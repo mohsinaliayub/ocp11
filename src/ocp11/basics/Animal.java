@@ -1,3 +1,5 @@
+package ocp11.basics;
+
 public class Animal {
     String name;
     public String getName() {
